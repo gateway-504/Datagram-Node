@@ -15,9 +15,11 @@ Discord    : https://discord.gg/datagramnetwork
 
 ### Minimum Hardware	Requirement
 
-*CPU	4 Core
+* 4 Cores CPU	
 
-*RAM	4 GB
+* 4 gb RAM
+
+* 10 gb storages
 
 ### Preparation Before Install Node
 
@@ -29,7 +31,10 @@ https://dashboard.datagram.network?ref=979051572
 
 
 <h1 align="center">Installing NOde</h1>
+
+
 ## 1.Update packages
+
 ``` 
 apt update 
 ```
