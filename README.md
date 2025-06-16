@@ -84,3 +84,40 @@ https://dashboard.datagram.network/overview
 
 
 DONE
+
+
+
+<h1 align="center">Updating Node</h1>
+
+
+## 1.Attacch session
+
+```
+tmux attach -t datagram
+```
+
+
+## 2.Stop Node 
+
+Ctrl + C
+
+
+## 3.Delete db file
+
+```
+rm -rf ~/.datagram/ai-router/.db
+```
+
+## 4.Rerun node
+
+```
+./datagram-cli-x86_64-linux run -- -key your_key
+```
+
+## 5.Detach session (make sure the node is running)
+
+ctrl b + d
+
+
+
+DONE
