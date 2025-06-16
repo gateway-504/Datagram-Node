@@ -3,13 +3,13 @@
 # Project Intro
 Datagram is the DePIN baselayer — an AI-driven, Hyper-Fabric Network enabling fast, scalable connectivity and DePIN interoperability.
 
-Fund: https://cryptorank.io/drophunting/datagram-activity843 (NA)
+Funding    : https://cryptorank.io/drophunting/datagram-activity843 (NA)
 
-X: https://x.com/dgramnetwork?mx=2
+X          : https://x.com/dgramnetwork?mx=2
 
-TG: https://t.me/datagramnetwork
+Telegram   : https://t.me/datagramnetwork
 
-DC: https://discord.gg/datagramnetwork 
+Discord    : https://discord.gg/datagramnetwork 
 
 # Tutorial
 
@@ -22,7 +22,7 @@ DC: https://discord.gg/datagramnetwork
 https://dashboard.datagram.network?ref=979051572
 *Save your node key from httpa://dashboard.datagram.network/wallet?tab=licenses
 
-<h1 align="center">INstalling NOde</h1>
+<h1 align="center">Installing NOde</h1>
 ## 1.Update packages
 ``` 
 apt update 
