@@ -102,19 +102,31 @@ tmux attach -t datagram
 Ctrl + C
 
 
-## 3.Delete db file
+## 3.Delete Node and db file
 
 ```
 rm -rf ~/.datagram/ai-router/.db
+rm -rf datagram-cli-x86_64-linux
 ```
 
-## 4.Rerun node
+## 4.Redownload and give node permission
+
+```
+wget https://github.com/Datagram-Group/datagram-cli-release/releases/latest/download/datagram-cli-x86_64-linux
+```
+
+```
+chmod +x datagram-cli-x86_64-linux
+```
+
+
+## 5.Rerun node
 
 ```
 ./datagram-cli-x86_64-linux run -- -key your_key
 ```
 
-## 5.Detach session (make sure the node is running)
+## 6.Detach session (make sure the node is running)
 
 ctrl b + d
 
