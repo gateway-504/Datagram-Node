@@ -23,11 +23,9 @@ Discord    : https://discord.gg/datagramnetwork
 
 ### Preparation Before Install Node
 
-* Create acoount
+* Create acoount at https://dashboard.datagram.network?ref=979051572
 
-https://dashboard.datagram.network?ref=979051572
-
-* Save your node key from httpa://dashboard.datagram.network/wallet?tab=licenses
+* Open https://dashboard.datagram.network/wallet?tab=licenses and save the Keys
 
 
 <h1 align="center">Installing NOde</h1>
