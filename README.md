@@ -44,7 +44,7 @@ apt install wget tmux -y
  ```
 
 
-## 3.Download file node
+## 3.Download file node and give permission
 ```
 wget https://github.com/Datagram-Group/datagram-cli-release/releases/latest/download/datagram-cli-x86_64-linux
 ```
