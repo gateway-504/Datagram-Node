@@ -28,7 +28,7 @@ Discord    : https://discord.gg/datagramnetwork
 * Open https://dashboard.datagram.network/wallet?tab=licenses and save the Keys
 
 
-<h1 align="center">Installing NOde</h1>
+<h1 align="center">Installing Node</h1>
 
 
 ## 1.Update packages
