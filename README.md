@@ -16,11 +16,17 @@ Discord    : https://discord.gg/datagramnetwork
 ### Minimum Hardware	Requirement
 
 *CPU	4 Core
+
 *RAM	4 GB
+
 ### Preparation Before Install Node
+
 *Create acoount
+
 https://dashboard.datagram.network?ref=979051572
+
 *Save your node key from httpa://dashboard.datagram.network/wallet?tab=licenses
+
 
 <h1 align="center">Installing NOde</h1>
 ## 1.Update packages
@@ -57,6 +63,8 @@ tmux new -s datagram
 ```
 * change your-key with your actual node key from dashboard.datagram.network/wallet?tab=licenses
 
+  
+
 ## 6.Detach session (make sure node is running)
 ctrl b + d
 
@@ -68,6 +76,8 @@ tmux attach -t datagram
 
 
 ### Check your node in  Dashboard
+
 https://dashboard.datagram.network/overview
+
 
 DONE
